@@ -1,0 +1,46 @@
+_repo: A-Woman-s-Wartime-Journal--13-An-account-of-the-passage-over-a-Georgia-plantation-of-Sherman-__32595
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Street, Julian
+    alias: Street, Julian Leonard
+    birthdate: 1879
+    deathdate: 1947
+    gutenberg_agent_id: '7933'
+    url: http://www.gutenberg.org/2009/agents/7933
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lunt, Dolly Sumner
+    aliases:
+    - Burge, Mrs. Thomas
+    - Burge, Dolly Lunt
+    birthdate: 1817
+    deathdate: 1891
+    gutenberg_agent_id: '35930'
+    url: http://www.gutenberg.org/2009/agents/35930
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32595'
+  lccn: '18009767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sherman''s March to the Sea -- Personal narratives'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcsh 'Georgia -- Biography'
+- !lcsh 'Georgia -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'Lunt, Dolly Sumner, 1817-1891'
+title: "A Woman's Wartime Journal\r\nAn account of the passage over a Georgia plantation\
+  \ of Sherman's army on the march to the sea, as recorded in the diary of Dolly Sumner\
+  \ Lunt"
+url: http://www.gutenberg.org/ebooks/32595
