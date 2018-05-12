@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '35930'
     url: http://www.gutenberg.org/2009/agents/35930
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32595#A-Woman-s-Wartime-Journal--13-An-account-of-the-passage-over-a-Georgia-plantation-of-Sherman-_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-05-30'
 gutenberg_type: Text
